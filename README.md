@@ -5,3 +5,8 @@
 <br>
 <code><img src="https://img.icons8.com/?size=100&id=qV-JzWYl9dzP&format=png&color=000000" hight="50px" width="50px"></code>
 <code><img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" hight="50px" width="50px"></code>
+<br><br>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" hight="50px" width="50px"></code>
+<code><img src="https://delta-dev-software.fr/wp-content/uploads/2024/05/CSS-Logo.png" hight="50px" width="50px"></code>
+
+
