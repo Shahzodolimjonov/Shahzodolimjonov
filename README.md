@@ -1,1 +1,1 @@
-### Hi, I'm Backend Developer <img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.webp?cid=790b76111eragk39k3v33wy4txjzu6ydtz4hxaez9jmn3fp9&ep=v1_gifs_search&rid=giphy.webp&ct=s", widht="50px">
+### Hi, I'm Backend Developer <img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.webp?cid=790b76111eragk39k3v33wy4txjzu6ydtz4hxaez9jmn3fp9&ep=v1_gifs_search&rid=giphy.webp&ct=s" widht="40px">
