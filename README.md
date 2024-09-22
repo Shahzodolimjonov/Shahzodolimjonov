@@ -13,5 +13,7 @@
 <code><img src="https://timeweb.com/media/bff61f5eb160ec40661943751b6b88dd.png" hight="60px" width="60px"></code>
 <code><img src="https://delta-dev-software.fr/wp-content/uploads/2024/05/CSS-Logo.png" hight="60px" width="60px"></code>
 <code><img src="https://img.icons8.com/?size=100&id=63208&format=png&color=000000" hight="60px" width="60px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/640px-Cisco_logo_blue_2016.svg.png" hight="60px" width="60px"></code>
+
 
 
